@@ -1,16 +1,15 @@
 # Advanced-Mobile-Programming
-Scheduling-system
 Advanced mobie programing
  scheduling_system 
 1. Abdulmenan Kedir           	ATR/7700/09
 
 2. Biruk Niguse                  ATR/6351/09
 
-3.Seyfe G/egziabher             ATE/9506/08
+ 3.Seyfe G/egziabher             ATE/9506/08
 
 Project title – Scheduling system
 
-Features
+   Features
 
 1.CRUD services
 
