@@ -16,7 +16,11 @@ Project title – Scheduling system
    Features
 
 1.CRUD services
+
 2.CRUD service giver
+
 3.Authentication and authorization
+
 4.schedule a service
+
 5.View history of booking for clients
